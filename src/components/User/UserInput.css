@@ -1,0 +1,14 @@
+.user-input-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.btn-container {
+  margin-top: 12px;
+}
+
+.alert-container {
+  margin: 12px 0;
+}
